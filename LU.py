@@ -1,0 +1,5 @@
+a=int( input() )
+b=int( input() )
+c=int( input() )
+s=str( input() )
+print(a+c+c,s)
