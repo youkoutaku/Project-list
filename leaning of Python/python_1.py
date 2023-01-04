@@ -1,4 +1,4 @@
-#python入門
+#python入門 from Bilibili vidio
 
 #print
 print(501)

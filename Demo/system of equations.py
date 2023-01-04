@@ -1,3 +1,5 @@
+#ロボット逆運動学の代数的解法のためのプログラム
+
 import sympy
 import math
 sympy.var('e1,e2,e3,px,py,pz,l0,l1,l2,l3')
