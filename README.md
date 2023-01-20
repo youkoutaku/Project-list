@@ -1,2 +1,3 @@
 # my-learning
- MY PY
+
+色んな小課題
