@@ -1,0 +1,236 @@
+body{
+ scrollbar-base-color:#0080FF;
+ scrollbar-highlight-color:#ffffff;
+ scrollbar-arrow-color:#0000aa;
+ text-align:left;
+ margin:0px;
+ padding:0px;
+ /*background-color:#FDC1FA;#E0E0E0;*/
+}
+
+a	{color:#33cc66}
+a:hover	{color:#0066ff}
+
+
+/* === ヘッダー部分のスタイル === */
+
+.head	{background-color:#0080FF;
+	 width:100%;
+	 height:95px;
+	 margin-left:auto;
+	 margin-right:auto}
+
+.head td	{vertical-align:middle;
+	 padding-top:0px}
+
+.head1	{width:58px;
+	 text-align:right}
+
+.head2	{padding-left:8px}
+
+.head h1	{font-size:23px;
+	 font-family:'Comic Sans MS';
+	 color:white;
+	 margin-bottom:2px}
+
+.head div	{font-size:12px;
+	 color:white}
+
+
+/* === コンテンツ部分のスタイル === */
+
+.main{width:550px;
+	 margin-top:30px;
+	 margin-left:63px;
+	 margin-right:auto;
+	 text-align:left}
+
+.main h2{
+ font-size:16px;
+ background-color:#F9F9F9;
+ border-top:solid 1px #0080FF;
+ border-right:solid 1px #0080FF;
+ border-bottom:solid 5px #0080FF;
+ border-left:solid 15px #0080FF;
+/*
+ border-top:solid 7px #0080FF;
+ border-right:solid 10px #0080FF;
+ border-bottom:solid 1px #0080FF;
+ border-left:solid 1px #0080FF;
+*/
+ padding-bottom:2px;
+ padding-top:3px;
+ padding-left:10px;
+ margin-bottom:12px;
+}
+
+
+
+.main div{font-size:12px;
+	 line-height:18px;
+	 color:#666666;
+	 margin-top:0px}
+
+.main p{font-size:12px;
+	 line-height:18px;
+	 color:#666666;
+	 margin-top:0px}
+
+.main li{font-size:12px;
+	 line-height:18px;
+	 color:#666666;
+	 margin-top:0px}
+
+/*
+.main table{
+ font-size:12px;
+border:dotted 1px #0080FF;
+line-height:18px;
+ color:#FFFFFF;
+ padding-left:5px;
+ padding-right:5px;
+ margin-top:0px;
+ border-style:dashed 1px #0080FF;
+ background-color:#FFFFFF;
+}
+*/
+.main td{
+ font-size:12px;
+ border:solid 1px #0080FF;
+ line-height:18px;
+ color:#666666;
+/* color:#FFFFFF;*/
+ padding-left:5px;
+ padding-right:5px;
+ margin-top:0px;
+/* border-style:dashed 1px #0080FF;*/
+}
+
+.main td.dot{
+ font-size:12px;
+ border:solid 1px #0080FF;
+ line-height:18px;
+ color:#666666;
+ /*color:#FFFFFF;
+ */
+padding-left:5px;
+ padding-right:5px;
+ margin-top:0px;
+ /*border-style:dashed 1px #0080FF;
+ */;
+ border-style:dotted;
+}
+
+.main textarea{font-size:12px;
+	 border:solid 1px #0080FF;
+	 line-height:14px;
+	 color:#666666;
+	 padding-left:5px;
+	 padding-right:5px;
+	 margin-top:0px}
+
+.main hr{
+	 color:#0080FF;
+	 background-color:#0080FF;
+	 padding-top:-1px;
+	 border:none;
+	 border-style:dotted;
+}
+
+
+
+/* 特別コンテンツ用　クラス */
+.small-main{
+ background-color:#0080FF;
+ text-align:left;
+ margin-left:10px;
+}
+
+/*
+.small-main p{
+ font-size:12px;
+ line-height:18px;
+ color:#666666;
+ margin-top:0px;
+ background-color:#FFFFFF;
+}
+*/
+
+.main .small-main h3{
+ margin-top:10px;
+ margin-left:10px;
+ font-size:13px;
+ background-color:#F9F9F9;
+
+ border-top:solid 10px #0080FF;
+ border-right:solid 10px #0080FF;
+ border-bottom:solid 1px #0080FF;
+ border-left:solid 10px #0080FF;
+
+ padding-bottom:1px;
+ padding-top:1px;
+ padding-left:10px;
+ margin-bottom:0px;
+}
+
+.main .small-main p{
+ /*margin-top:10px;*/
+ margin-left:10px;
+ font-size:12px;
+ line-height:18px;
+/* color:#666666;*/
+ color:#FFFFFF;
+ padding-top:0px;
+ padding:10px;
+ border-left:solid 1px #0080FF;
+ border-top:solid 10px #0080FF;
+ border-right:solid 1px #0080FF;
+ border-bottom:solid 1px #0080FF;
+ margin-top:0px;
+ background-color:#0080FF;
+}
+
+.main .small-main td{
+ background-color:#0080FF;
+ font-size:12px;
+ border:solid 0px #0080FF;
+ line-height:18px;
+ /*color:#666666;*/
+ color:#FFFFFF;
+ padding-left:5px;
+ padding-right:5px;
+ margin-top:0px;
+}
+
+.main .small-main td.prog{
+ background-color:#FFFFFF;
+ font-size:12px;
+ border:solid 1px #0080FF;
+ line-height:18px;
+ color:#666666;
+ /* color:#FFFFFF;*/
+ padding-left:5px;
+ padding-right:5px;
+ margin-top:0px;
+/* margin:10px;*/
+}
+
+
+/*
+.main .small-main pre{
+ background-color:#FFFFFF;
+ color:#666666;
+ padding:10px;
+}
+*/
+
+/* ここまで */
+
+
+/*.link	{font-size:smaller}*/
+.link	{font-size:10px}
+.link hr{color:#0080FF;
+	 background-color:#0080FF;
+	 border-style:dotted;
+	 /*border:none*/}
+
