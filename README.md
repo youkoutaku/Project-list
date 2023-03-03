@@ -1,4 +1,4 @@
-# my-learning
+# My Learning
 
 色んな小課題
 
