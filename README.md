@@ -8,7 +8,7 @@
 
 ## robotics
 - [OpenGL学習](https://github.com/youkoutaku/my-learning/tree/main/robotics/OpenGL_study)
-- [OpenGLの学習とOpenGLによるロボットアームのシミュレーション](https://github.com/youkoutaku/my-learning/tree/main/robotics/prg/20t1126n(YANG%20GUANGZE))
+- [OpenGLによるロボットアームのシミュレーション](https://github.com/youkoutaku/my-learning/tree/main/robotics/prg/20t1126n(YANG%20GUANGZE))
 
 ## Demo_digital
 ディジタル信号処理において，Pythonを使い，[双一次変換によるディジタIIRフィルタ処理](https://github.com/youkoutaku/my-learning/blob/main/Demo_digital/digital/digital.ipynb)
